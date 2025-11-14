@@ -16,23 +16,23 @@
 ## 📂 Mijn Projecten
 Hier zijn een paar van mijn schoolopdrachten:
 
-### 🔹 Project 1 — Website Bit Academy Clone
-Ik moest met behulp van Bootstrap de Bit Academy website namaken.  
-➡️ **Repo:** [link naar repository]
+### 🔹 Project 1 — Bootstrap-website
+Ik moest met behulp van Bootstrap de Bit Academy website namaken.
 
-### 🔹 Project 2 — *Naam van project*
-Korte uitleg van de opdracht.  
-➡️ **Repo:** [link naar repository]
+### 🔹 Project 2 — Bulma-doelpagina
+Ik met behulp van de framework Bulma een werkende doelpagina gemaakt!
 
-### 🔹 Project 3 — *Naam van project*
-Wat dit project bijzonder maakt.  
-➡️ **Repo:** [link naar repository]
+### 🔹 Project 3 — Tailwind-Spotify-Clone
+Ik heb Spotify heel lichtelijk nagemaakt met behulp van de styling Framework "Tailwind".
+
+### 🔹 Project 4 — Project-Zomboid-menu-Foundation 
+Ik heb een display menu gemaakt met css framework "Foundation".  
 
 ---
 
 ## 📫 Contact
-- ✉️ Email: jouwmail@example.com
-- 🌐 Portfolio (optioneel)
+- ✉️ Email: kktdefouw@hotmail.com
+- 🌐 Portfolio https://kaspermetdek.github.io/Bootstrap-portfolio/#
 
 ---
 
