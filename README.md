@@ -13,20 +13,17 @@
 
 ---
 
-## 📂 Mijn Projecten
+## 📂 Mijn Favoriete Projecten
 Hier zijn een paar van mijn schoolopdrachten:
 
-### 🔹 Project 1 — Bootstrap-website
-Ik moest met behulp van Bootstrap de Bit Academy website namaken.
+### 🔹 Project 1 — 
 
-### 🔹 Project 2 — Bulma-doelpagina
-Ik met behulp van de framework Bulma een werkende doelpagina gemaakt!
+### 🔹 Project 2 — 
 
-### 🔹 Project 3 — Tailwind-Spotify-Clone
-Ik heb Spotify heel lichtelijk nagemaakt met behulp van de styling Framework "Tailwind".
+### 🔹 Project 3 — 
 
-### 🔹 Project 4 — Project-Zomboid-menu-Foundation 
-Ik heb een display menu gemaakt met css framework "Foundation".  
+### 🔹 Project 4 — PhP rekenmachine!
+
 
 ---
 
